@@ -26,20 +26,26 @@ Reducing the dependency on human lawyers for preliminary legal advice.
 
 Making legal information more accessible to the general public.
 ### The Solution
-[How are you solving it? Keep it fun!]
+[The primary objective of the RAG_LegalBot is to provide automated legal assistance by answering user queries related to legal matters. The bot aims to:
+
+Retrieve relevant legal information or case laws from a database.
+
+Generate accurate, concise, and contextually appropriate responses to user queries.
+
+Assist users in understanding legal concepts, finding relevant case laws, or getting guidance on legal procedures.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+-NLP Techniques Utilized:
+       Semantic Embeddings: Vectorization of text using Hugging Face embeddings.
+       Vector Search: Efficient document retrieval using Pinecone.
+* Generative AI Integration:
+      Uses Google Generative AI (Gemini) for natural language response generation.
+             Custom prompt templates for coherent and context-aware outputs.
+* Web Framework and Interactive UI:
+Built using Flask for backend services.
+User-friendly chat interface for smooth interactions
 
 ### Implementation
 For Software:
