@@ -6,9 +6,9 @@ setup(
 
       version= '0.0.0',
 
-      author= 'Roshni S',
+      author= 'Riya S',
 
-      author_email= 'roshnickbaby@gmail.com',
+      author_email= 'riya@gmail.com',
 
       packages= find_packages(),
 
