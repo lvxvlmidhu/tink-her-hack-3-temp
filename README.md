@@ -11,8 +11,7 @@
 - Member 3: [Riya Marjum M R] - [Ahalia school of engineering and technology]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
-
+https://github.com/lvxvlmidhu/tink-her-hack-3-temp
 ### Project Description
 
  LegalBot is a chatbot designed to assist legal professionals, researchers, and individuals seeking legal advice by delivering accurate and contextual responses to complex legal queries. The chatbot leverages Retrieval-Augmented Generation (RAG) to enhance the quality of its responses, ensuring they are both relevant and well-informed.
