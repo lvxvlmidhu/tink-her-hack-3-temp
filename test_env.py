@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv
 
-load_dotenv(dotenv_path="/home/rosh/Desktop/RAG_CHATBOT/.env")
+load_dotenv(dotenv_path="/home/riya/Desktop/RAG_CHATBOT/.env")
 
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
