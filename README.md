@@ -1,24 +1,30 @@
-# [Project Name] 🎯
+# LAWLOOM🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team name: [Nova spec]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Archana J] - [Ahalia school of engineering and technology]
+- Member 2: [Nazna N] - [Ahalia school of engineering and technology]
+- Member 3: [Riya Marjum M R] - [Ahalia school of engineering and technology]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+ LegalBot is a chatbot designed to assist legal professionals, researchers, and individuals seeking legal advice by delivering accurate and contextual responses to complex legal queries. The chatbot leverages Retrieval-Augmented Generation (RAG) to enhance the quality of its responses, ensuring they are both relevant and well-informed.
 
+With its ability to perform semantic searches and generate responses using Google Generative AI, LegalBot aims to simplify legal research, streamline document analysis, and provide quick access to legal insights
 ### The Problem statement
-[What ridiculous problem are you solving?]
+The problem being addressed by this project is the lack of accessible and efficient legal assistance for individuals who may not have the resources to consult a lawyer or navigate complex legal systems. Legal research and advice can be time-consuming and expensive, and this bot aims to democratize access to legal information by:
 
+Providing quick and accurate responses to legal queries.
+
+Reducing the dependency on human lawyers for preliminary legal advice.
+
+Making legal information more accessible to the general public.
 ### The Solution
 [How are you solving it? Keep it fun!]
 
